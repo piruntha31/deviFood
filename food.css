@@ -1,0 +1,14 @@
+div > h2{
+    color:black;
+    border-style:solid;
+    font-style: oblique;
+}
+
+div > p{
+    color:blue;
+}
+
+h3{
+    color:maroon;
+}
+
